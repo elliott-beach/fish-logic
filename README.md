@@ -14,6 +14,7 @@ fisher e-beach/fish-logic
 ## TODO
 - [ ] Add demo with asciinema
 - [ ] prevent quoted expressions like `'&&'` from being expanded.
+- [ ] support vi mode.
 - [ ] Add tests
 
 [fisherman]: https://github.com/fisherman/fisherman
